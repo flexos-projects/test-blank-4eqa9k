@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "parts": [
+        {
+          "type": "text",
+          "text": "What should I work on next?"
+        }
+      ],
+      "id": "tXZX1Dvz1es9yNaP",
+      "role": "user"
+    },
+    {
+      "id": "u6vxhilExUz5Om3b",
+      "role": "assistant",
+      "parts": []
+    }
+  ],
+  "contextMap": {
+    "tXZX1Dvz1es9yNaP": null,
+    "u6vxhilExUz5Om3b": null
+  },
+  "savedAt": "2026-03-30T02:59:17.836Z"
+}
